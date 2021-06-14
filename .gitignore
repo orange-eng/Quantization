@@ -127,3 +127,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# orange
+*.png
+*.jpeg
+*.jpg
+*.mp4
+*.xml
+*.dat
+*.pt
+*.onnx
+*.index
+*.meta
+*.data-00000-of-00001
+*.vec
+*.bmp
+*.pth
+*.gif
+*.tar
+*.pyc
+*.gz
+*.pickle
+/Quantization/data/*
+/Video_Generation/MakeItTalk/examples_cartoon/*
+/Video_Generation/MakeItTalk/examples/*
+/Quantization/WAGE/data/*
+/data/*
